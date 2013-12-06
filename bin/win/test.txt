@@ -1,0 +1,62 @@
+Exif.Image.Make                              Ascii      18  NIKON CORPORATION
+Exif.Image.Model                             Ascii      11  NIKON D600
+Exif.Image.Orientation                       Short       1  top, left
+Exif.Image.XResolution                       Rational    1  300
+Exif.Image.YResolution                       Rational    1  300
+Exif.Image.ResolutionUnit                    Short       1  inch
+Exif.Image.Software                          Ascii      42  Adobe Photoshop Lightroom 4.4 (Macintosh)
+Exif.Image.DateTime                          Ascii      20  2013:09:20 21:56:56
+Exif.Image.ExifTag                           Long        1  230
+Exif.Photo.ExposureTime                      Rational    1  1/125 s
+Exif.Photo.FNumber                           Rational    1  F5.6
+Exif.Photo.ExposureProgram                   Short       1  Auto
+Exif.Photo.ISOSpeedRatings                   Short       1  320
+Exif.Photo.ExifVersion                       Undefined   4  2.30
+Exif.Photo.DateTimeOriginal                  Ascii      20  2013:08:24 11:58:35
+Exif.Photo.DateTimeDigitized                 Ascii      20  2013:08:24 11:58:35
+Exif.Photo.ShutterSpeedValue                 SRational   1  1/125 s
+Exif.Photo.ApertureValue                     Rational    1  F5.6
+Exif.Photo.ExposureBiasValue                 SRational   1  0 EV
+Exif.Photo.MaxApertureValue                  Rational    1  F3.7
+Exif.Photo.MeteringMode                      Short       1  Multi-segment
+Exif.Photo.LightSource                       Short       1  Fine weather
+Exif.Photo.Flash                             Short       1  No, compulsory
+Exif.Photo.FocalLength                       Rational    1  32.0 mm
+Exif.Photo.SubSecTimeOriginal                Ascii       3  20
+Exif.Photo.SubSecTimeDigitized               Ascii       3  20
+Exif.Photo.PixelXDimension                   Long        1  2707
+Exif.Photo.PixelYDimension                   Long        1  1805
+Exif.Photo.SensingMethod                     Short       1  One-chip color area
+Exif.Photo.FileSource                        Undefined   1  Digital still camera
+Exif.Photo.CustomRendered                    Short       1  Normal process
+Exif.Photo.ExposureMode                      Short       1  Auto
+Exif.Photo.WhiteBalance                      Short       1  Manual
+Exif.Photo.DigitalZoomRatio                  Rational    1  1.0
+Exif.Photo.FocalLengthIn35mmFilm             Short       1  32.0 mm
+Exif.Photo.SceneCaptureType                  Short       1  Standard
+Exif.Photo.GainControl                       Short       1  None
+Exif.Photo.Contrast                          Short       1  Normal
+Exif.Photo.Saturation                        Short       1  Normal
+Exif.Photo.Sharpness                         Short       1  Normal
+Exif.Photo.SubjectDistanceRange              Short       1  Unknown
+Iptc.Envelope.CharacterSet                   String      3  %G
+Iptc.Application2.RecordVersion              Short       1  2
+Iptc.Application2.DigitizationTime           Time       11  11:58:35+00:00
+Iptc.Application2.DigitizationDate           Date        8  2013-08-24
+Iptc.Application2.Keywords                   String     19  CB Expeditions 2013
+Iptc.Application2.Keywords                   String     27  Condor Blanco Internacional
+Iptc.Application2.Keywords                   String     24  Fotografia Aguila Blanca
+Iptc.Application2.Keywords                   String     14  Suryavan Solar
+Iptc.Application2.Keywords                   String     20  www.condorblanco.com
+Iptc.Application2.DateCreated                Date        8  2013-08-24
+Iptc.Application2.TimeCreated                Time       11  11:58:35+00:00
+Xmp.aux.LensID                               XmpText     3  165
+Xmp.aux.LensInfo                             XmpText    19  28/1 300/1 7/2 28/5
+Xmp.aux.ImageNumber                          XmpText     5  35839
+Xmp.aux.Lens                                 XmpText    23  28.0-300.0 mm f/3.5-5.6
+Xmp.aux.SerialNumber                         XmpText     7  3036641
+Xmp.xmp.CreateDate                           XmpText    19  2013-08-24T11:58:35
+Xmp.xmp.ModifyDate                           XmpText    19  2013-09-20T21:56:56
+Xmp.xmp.CreatorTool                          XmpText    41  Adobe Photoshop Lightroom 4.4 (Macintosh)
+Xmp.photoshop.DateCreated                    XmpText    19  2013-08-24T11:58:35
+Xmp.dc.subject                               XmpBag      5  CB Expeditions 2013, Condor Blanco Internacional, Fotografia Aguila Blanca, Suryavan Solar, www.condorblanco.com
